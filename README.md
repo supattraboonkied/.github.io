@@ -2,7 +2,7 @@
 
 <p>
   
-  <img src="https://web.facebook.com/photo?fbid=3139358956160115&set=a.102595439836497.jpg" alt="facebook.com" style="width:104px;height:142px;">
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t1.0-9/117819570_3139358959493448_5223187308511975726_n.jpg?_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeFQuFmRxZ-zbcNnZkqCMoDELNNdxwSsvw8s013HBKy_D5RWG7y8yNcLjaYrdxf_PcQIkd6fTcSJ88QfOON1Kcnj&_nc_ohc=k4YBks4blIgAX9XeILi&_nc_ht=scontent.fbkk13-2.fna&oh=c8b8609c6896d05752dc46b2705ad7c1&oe=5FE406D5.jpg" alt="facebook.com" style="width:104px;height:142px;">
   
     EDUCATION HISTORY <br>
     2020 - PRESENT Mahanakorn University, Bangkok <br>
