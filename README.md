@@ -3,11 +3,11 @@
 
 <p>
   
-    EDUCATION HISTORY \n
-    2020 - PRESENT Mahanakorn University, Bangkok \n
-    Master’s Degree (Cybersecurity Engineering) \n
-    2012 – 2015 Sripatum University, Bangkok \n
-    Bachelor’s Degree (Computer Engineering) \n
+    EDUCATION HISTORY <br>
+    2020 - PRESENT Mahanakorn University, Bangkok <br>
+    Master’s Degree (Cybersecurity Engineering) <br>
+    2012 – 2015 Sripatum University, Bangkok <br>
+    Bachelor’s Degree (Computer Engineering) <br>
     <br>
     SPECIAL SKILLS <br>
     Computer Programming language : VB, PHP, HTML <br>
