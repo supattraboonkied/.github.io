@@ -2,7 +2,7 @@
 
 
 <p>
-  <pre>
+<pre>
   EDUCATION HISTORY
   2020 - PRESENT Mahanakorn University, Bangkok
   Master’s Degree (Cybersecurity Engineering)
@@ -21,5 +21,5 @@
   - Design website and develop by PHP language, HTML
   - Design database in MSSQL Server;
   - Preparation of manuals and training program for user
-  </pre>
+</pre>
 </p>
