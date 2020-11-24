@@ -1,8 +1,8 @@
 <h1>MISS. SUPATTRA BOONKIED</h1>
 
 <p>
-
-  <img src="https://www.facebook.com/images/117819570_3139358959493448_5223187308511975726_n.jpg" alt="facebook.com">
+  
+  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
   
     EDUCATION HISTORY <br>
     2020 - PRESENT Mahanakorn University, Bangkok <br>
