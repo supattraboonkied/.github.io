@@ -1,6 +1,5 @@
 <h1>MISS. SUPATTRA BOONKIED</h1>
 
-
 <p>
   
     EDUCATION HISTORY <br>
