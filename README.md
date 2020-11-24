@@ -2,7 +2,7 @@
 
 <p>
   
-  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  <img src="supattra.jpg"  width="500" height="600">
   
     EDUCATION HISTORY <br>
     2020 - PRESENT Mahanakorn University, Bangkok <br>
