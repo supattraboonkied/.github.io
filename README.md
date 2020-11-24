@@ -2,8 +2,8 @@
 
 <p>
   
-  <img src="supattra.jpg"  width="200" height="200">
-  
+  <img src="supattra.jpg"  width="200" height="200"> <br>
+  <br>
     EDUCATION HISTORY <br>
     2020 - PRESENT Mahanakorn University, Bangkok <br>
     Master’s Degree (Cybersecurity Engineering) <br>
