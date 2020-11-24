@@ -2,6 +2,8 @@
 
 <p>
   
+  <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
+  
     EDUCATION HISTORY <br>
     2020 - PRESENT Mahanakorn University, Bangkok <br>
     Master’s Degree (Cybersecurity Engineering) <br>
