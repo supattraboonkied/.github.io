@@ -2,12 +2,13 @@
 
 
 <p>
-<pre>
+    <pre>
     EDUCATION HISTORY
     2020 - PRESENT Mahanakorn University, Bangkok
     Master’s Degree (Cybersecurity Engineering)
     2012 – 2015 Sripatum University, Bangkok
     Bachelor’s Degree (Computer Engineering)
+    </pre>
     SPECIAL SKILLS
     Computer Programming language : VB, PHP, HTML
     Database Programming : SQL Server, MySQL
@@ -18,5 +19,5 @@
     - Design website and develop by PHP language, HTML
     - Design database in MSSQL Server;
     - Preparation of manuals and training program for user
-</pre>
+
 </p>
