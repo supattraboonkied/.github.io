@@ -6,7 +6,6 @@
   EDUCATION HISTORY
   2020 - PRESENT Mahanakorn University, Bangkok
   Master’s Degree (Cybersecurity Engineering)
-  
   2012 – 2015 Sripatum University, Bangkok
   Bachelor’s Degree (Computer Engineering)
 
