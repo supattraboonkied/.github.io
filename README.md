@@ -2,7 +2,7 @@
 
 <p>
   
-  <img src="supattra.jpg"  width="500" height="600">
+  <img src="supattra.jpg"  width="200" height="200">
   
     EDUCATION HISTORY <br>
     2020 - PRESENT Mahanakorn University, Bangkok <br>
