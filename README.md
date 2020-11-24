@@ -2,7 +2,7 @@
 
 <p>
   
-  <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
+  <img src="https://web.facebook.com/photo?fbid=3139358956160115&set=a.102595439836497.jpg" alt="W3Schools.com" style="width:104px;height:142px;">
   
     EDUCATION HISTORY <br>
     2020 - PRESENT Mahanakorn University, Bangkok <br>
