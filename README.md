@@ -11,7 +11,7 @@
     Bachelor’s Degree (Computer Engineering) <br>
     <br>
     SPECIAL SKILLS <br>
-    Computer Programming language : VB, PHP, HTML <br>
+    Computer Programming language : VB, PHP, HTML, Python <br>
     Database Programming : SQL Server, MySQL <br>
     Other Software : Microsoft Office, Adobe Photoshop <br>
     <br>
@@ -21,6 +21,7 @@
     - Design website and develop by PHP language, HTML <br>
     - Design database in MSSQL Server; <br>
     - Preparation of manuals and training program for user <br>
+    - Report Builder. <br>
 
 
 </p>
