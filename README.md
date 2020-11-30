@@ -5,7 +5,7 @@
   <img src="supattra.jpg"  width="200" height="200"> <br>
   <br>
     EDUCATION HISTORY <br>
-    2020 - PRESENT Mahanakorn University, Bangkok <br>
+    2020 - PRESENT Mahanakorn University of Technology, Bangkok <br>
     Master’s Degree (Cybersecurity Engineering) <br>
     2012 – 2015 Sripatum University, Bangkok <br>
     Bachelor’s Degree (Computer Engineering) <br>
