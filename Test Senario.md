@@ -1,9 +1,9 @@
 # Test Case
-test Case ID : Login-1	
-Test Senario : Authentication Limits 
-Third time fail login 3 minute delay 
-prerequisition : login fail 2 time	 
-test condition : login in Third time fail 3 minute delay 
+test Case ID : Login-1	<br>
+Test Senario : Authentication Limits <br>
+Third time fail login 3 minute delay <br>
+prerequisition : login fail 2 time	 <br>
+test condition : login in Third time fail 3 minute delay <br>
 
 | No |     Action    |    Inputs   | Expected Output  |   Actual output   | 
 | -- | ------------- | ----------- | ---------------- | ----------------- |
@@ -14,6 +14,6 @@ test condition : login in Third time fail 3 minute delay
 
 
 
-Members 
-Nantawan Sanpukdee 
-Supattra Boonkied 
+Members <br>
+- Nantawan Sanpukdee <br>
+- Supattra Boonkied <br>
