@@ -1,4 +1,4 @@
-<h2>Loging Authentication Limits</h2>
+# Loging Authentication Limits
 
 test Case ID : Login-1	<br>
 Test Senario : Authentication Limits <br>
