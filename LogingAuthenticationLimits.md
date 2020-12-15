@@ -1,5 +1,4 @@
 <h2>Loging Authentication Limits</h2>
-Loging Authentication Limits <br>
 test Case ID : Login-1	<br>
 Test Senario : Authentication Limits <br>
 Third time fail login 3 minute delay <br>
