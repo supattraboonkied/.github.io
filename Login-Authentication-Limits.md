@@ -1,4 +1,4 @@
-## Loging Authentication Limits
+## Login Authentication Limits
 
 test Case ID : Login-1	<br>
 Test Senario : Authentication Limits <br>
