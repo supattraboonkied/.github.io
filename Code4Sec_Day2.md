@@ -22,4 +22,26 @@ Secret Key หรือเรียกว่าการเข้ารหัส
 ติดตั้งโมดูล cryptography ได้โดยใช้ pip ด้วยคำสั่ง <br>
 pip install cryptography <br>
 
+การเข้ารหัส Encryption <br>
 
+    ตัวอย่างโค้ด     
+        from cryptography.fernet import Fernet
+        key = Fernet.generate_key()
+        f = Fernet(key)
+        token = f.encrypt(b"Supattra Boonkied.") 
+        print(token)
+  
+     ผลลัพธ์
+        b'gAAAAABf80NAfXFzYTwOL3x-8y0yInL_kzUCD0K9xzRUbsCdXaH2hXhJAqG_gKoY4RMWg8266dChTkRbQBDail41IXt0F1tRlp1T_qHx2pfnnJ1KVF6Ahuk='
+    
+การถอดรหัส Decryption <br>
+
+    ตัวอย่างโค้ด     
+        from cryptography.fernet import Fernet
+        key = Fernet.generate_key()
+        f = Fernet(key)
+        token = f.encrypt(b"Supattra Boonkied.") 
+        print(f.decrypt(token))
+  
+     ผลลัพธ์
+        b'Supattra Boonkied.'
