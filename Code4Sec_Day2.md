@@ -45,3 +45,7 @@ pip install cryptography <br>
   
      ผลลัพธ์
         b'Supattra Boonkied.'
+        
+ทดสอบรันด้วยโปรแกรม Visual Studio Code <br>
+<br>
+<img src="cryptography.png" class="sp sq fg ev er ix w c"> <br>
