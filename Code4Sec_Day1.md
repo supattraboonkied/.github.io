@@ -12,4 +12,11 @@ Hash เป็นการนำข้อมูลต้นฉบับ มา�
   - sha384 <br>
   - OpenSSL Algorithms <br>
 <br>
-### Python Hash ข้อความด้วย MD5
+
+<p>
+Python Hash ข้อความด้วย MD5 <br>
+
+import hashlib <br>
+hash = hashlib.md5(b"Supattra Boonkied")  <br>
+print("MD5 : "+hash.hexdigest())  <br>
+</p>
