@@ -18,3 +18,8 @@ Secret Key หรือเรียกว่าการเข้ารหัส
 เมื่อเราใช้คีย์หนึ่งเข้ารหัสข้อมูล (จะใช้ private key หรือ public key ก็ได้) อีกคีย์หนึ่งจะใช้ถอดรหัสข้อมูลเสมอ ตัวอย่าง <br>
   - ใช้ private key เข้ารหัส ก็ต้องใช้ public key ถอดรหัส <br>
   - ใช้ public key เข้ารหัส ก็ต้องใช้ private key ถอดรหัส <br>
+  
+ติดตั้งโมดูล cryptography ได้โดยใช้ pip ด้วยคำสั่ง <br>
+pip install cryptography <br>
+
+
