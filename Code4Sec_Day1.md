@@ -19,4 +19,7 @@ Hash เป็นการนำข้อมูลต้นฉบับ มา�
     import hashlib 
     hash = hashlib.md5(b"Supattra Boonkied")  
     print("MD5 : "+hash.hexdigest())  
+    
+    ผลลัพธ์
+    MD5 : d0f965164347fb4eab8ed8ca083d71da
 
