@@ -13,10 +13,10 @@ Hash เป็นการนำข้อมูลต้นฉบับ มา�
   - OpenSSL Algorithms <br>
 <br>
 
-<p>
-Python Hash ข้อความด้วย MD5 <br>
 
-import hashlib <br>
-hash = hashlib.md5(b"Supattra Boonkied")  <br>
-print("MD5 : "+hash.hexdigest())  <br>
-</p>
+   Python Hash ข้อความด้วย MD5 <br>
+   
+    import hashlib 
+    hash = hashlib.md5(b"Supattra Boonkied")  
+    print("MD5 : "+hash.hexdigest())  
+
