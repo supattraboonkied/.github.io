@@ -22,11 +22,12 @@ Secret Key หรือเรียกว่าการเข้ารหัส
 ติดตั้งโมดูล cryptography ได้โดยใช้ pip ด้วยคำสั่ง <br>
 pip install cryptography <br>
 
-การเข้ารหัส Encryption <br>
+### การเข้ารหัส Encryption <br>
 ทดสอบรันด้วยโปรแกรม Visual Studio Code <br>
 <br>
 <img src="encrypt.png" class="sp sq fg ev er ix w c"> <br>
-การถอดรหัส Decryption <br>       
+<br>
+### การถอดรหัส Decryption <br>       
 ทดสอบรันด้วยโปรแกรม Visual Studio Code <br>
 <br>
 <img src="decrypt.png" class="sp sq fg ev er ix w c"> <br>
